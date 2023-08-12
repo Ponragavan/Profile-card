@@ -186,7 +186,7 @@ body{
     }
     .prof-card:hover .links{
         opacity: 1;
-        transform: translateY(150px);
+        transform: translateY(160px);
     }
 }
 }
