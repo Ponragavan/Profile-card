@@ -158,3 +158,9 @@ body{
 .icon4:hover{
     font-size: 1.5em;
 }
+@media (max-width: 768px) {
+    .prof-card{
+        height: 100%;
+        width: 90%;
+    }
+}
