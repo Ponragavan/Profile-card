@@ -1,5 +1,5 @@
 # Profile-card
 
-My Prfile Page
+My Profile Page
 
 By using HTML,CSS
