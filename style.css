@@ -78,27 +78,30 @@ body{
     font-size: 1.5em;
     opacity: 0;
     transition: all 0.4s ease-in-out;
-    text-decoration: none;
 }
 .links .icon1{
     color: #0077B5;
     padding-right: 20px;
     transition: all 0.4s ease-in-out;
+    text-decoration: none;
 }
 
 .links .icon2{
     color: #181717;
     padding-right: 20px;
     transition: all 0.4s ease-in-out;
+    text-decoration: none;
 }
 .links .icon3{
     color: #833ab4;
     padding-right: 20px;
     transition: all 0.4s ease-in-out;
+    text-decoration: none;
 }
 .links .icon4{
     color: #25D366;
     transition: all 0.7s ease-in-out;
+    text-decoration: none;
 }
 
 .links a{
